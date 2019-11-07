@@ -1,0 +1,25 @@
+ " .container{width: 500px; height:500px;}"
+
+
+
+
+.bodycolor{	
+	color blue;
+	
+	%(hieght:50%)
+	text-align: right	
+}
+
+.form-group{
+	color red;
+	
+	align-items: center;
+
+}
+
+
+container.div{
+	color: green;
+} 
+
+ 
